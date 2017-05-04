@@ -1,0 +1,8 @@
+﻿Ranga		|	Login	|	Hasło	
+Administator	|	Cara	|	user	
+Moderator	|	Hamish	|	user	
+Gracz		|	Declan	|	user	
+Zbanowany	|	Macon	|	user
+
+
+
